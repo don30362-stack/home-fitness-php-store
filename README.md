@@ -20,7 +20,7 @@ Home Fitness 是一個由職訓課程專案持續重構與完善而成的原生 
 | --- | --- |
 | ![商品列表](docs/screenshots/02-products.png) | ![商品詳細](docs/screenshots/03-product-detail.png) |
 
-| 購物車 | 訂單明細 |
+| 購物車 | 訂單完成 |
 | --- | --- |
 | ![購物車](docs/screenshots/04-cart.png) | ![訂單完成](docs/screenshots/05-order-complete.png) |
 
